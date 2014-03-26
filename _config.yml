@@ -1,3 +1,4 @@
 name: Surgical Pathology ScopeCam
 markdown: redcarpet
 pygments: true
+baseurl: /scopecam
